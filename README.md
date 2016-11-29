@@ -1,3 +1,8 @@
+# Submissions scores
+
+1. [Ensembling RandomForest and Logistic Regression](https://github.com/matheus-santos/Kaggle__Titanic/blob/master/submission_ensemblingRandomForestAndLogisticRegression.py) scored **0.79904**
+2. [Logistic Regression](https://github.com/matheus-santos/Kaggle__Titanic/blob/master/submission_logisticRegression.py) scored **0.75120**
+
 # Processo
 - Normalizar dataset
     - Ex1.: campos faltantes podem ser substituidos pela média da coluna
